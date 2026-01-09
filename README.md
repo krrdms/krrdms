@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello all, aside from my primary professional work, I also teach cybersecurity and networking courses at the Northern Virginia Community College (primarily in Annandale, but other campuses also). I teach networking and cyber for the MIS concentration at George Mason University in Fairfax also. I am a 3rd yeard doctoral student/candidate at Marymount University.
+About Me:
+Research Interests: Usable Security & Emerging Tech Adoption
+
+Previously: Adjunct @George Mason University (2020-2022), @Northern Virginia Community College(2007; 2019-2022), @University of MD, Global Campus (2011)
+
+Current: Harvard Extension School ALM in Government
+Past: Marymount University, DSc in Cybersecurity
+Howard University, MS in Computer Science
+Benedict College , BS in Computer Infromation Science
+
+Publications: <a href="https://scholar.google.com/citations?hl=en&user=tNs4YTMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
