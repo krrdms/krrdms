@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 About Me:<br>
 Research Interests: Usable Security & Emerging Tech Adoption<br><br>
 
-Previously: Adjunct @George Mason University (2020-2022), @Northern Virginia Community College(2007; 2019-2022), @University of MD, Global Campus (2011)<br><br>
+Previously: Adjunct @George Mason University (2020-2022), <br>
+@Northern Virginia Community College(2007; 2019-2022), <br>
+@University of MD, Global Campus (2011)<br><br>
 
 Current: Harvard Extension School ALM in Government<br>
 Past: Marymount University, DSc in Cybersecurity<br>
