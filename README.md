@@ -24,3 +24,7 @@ Previously: Adjunct @George Mason University (2020-2022), <br>
 Academics: <a href="https://sites.google.com/g.harvard.edu/jonadams">here</a><br><br>
 
 Publications: <a href="https://scholar.google.com/citations?hl=en&user=tNs4YTMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+
+--- Free Stuff
+* Classes - https://github.com/krrdms/krrdms/blob/main/FreeClasses.MD
+* Reading List - https://github.com/krrdms/krrdms/blob/main/ReadingList.MD
