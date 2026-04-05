@@ -8,7 +8,6 @@
 | ⏳ **Plan to Read** | The Kill Chain | Christian Brose | 2020 | A look at defending America in the future of high-tech warfare. | [Audible](https://www.audible.com/pd/The-Kill-Chain-Audiobook/1549123696) / [Amazon](https://www.amazon.com/dp/1549123696) |
 | ⏳ **Plan to Read** | The Mismeasure of Man | Steven Jay Gould | 1981 | A masterwork debunking the ranking of people by genetic limits. | [Audible](https://www.audible.com/pd/The-Mismeasure-of-Man-Audiobook/B005MZW22W) / [Amazon](https://www.amazon.com/dp/B005MZW22W) |
 | ⏳ **Plan to Read** | Tribe | Sebastian Junger | 2016 | Explores the evolutionary need for communal society and tribal belonging. | [Audible](https://www.audible.com/pd/Tribe-Audiobook/B01D57FN3I) / [Amazon](https://www.amazon.com/dp/B01D57FN3I) |
-
 | ✅ **Read** | Thinking, Fast and Slow | Daniel Kahneman | 2011 | A deep dive into the two systems that drive the way we think. | [Audible](https://www.audible.com/pd/Thinking-Fast-and-Slow-Audiobook/B005TKKCWC) / [Amazon](https://www.amazon.com/dp/B005TKKCWC) |
 | ✅ **Read** | Outliers | Malcolm Gladwell | 2008 | An intellectual journey into what makes high-achievers different. | [Audible](https://www.audible.com/pd/Outliers-Audiobook/B002UZDRK8) / [Amazon](https://www.amazon.com/dp/B002UZDRK8) |
 | ✅ **Read** | Empire of AI | Karen Hao | 2024 | An eye-opening account of the tech arms race at OpenAI and the shaping of the AI landscape. | [Audible](https://www.audible.com/pd/Empire-of-AI-Audiobook/B0DR39GCQZ) / [Amazon](https://www.amazon.com/dp/B0DR39GCQZ) |
