@@ -21,11 +21,6 @@ Previously: Adjunct @George Mason University (2020-2022), <br>
 @Northern Virginia Community College(2007; 2019-2022), <br>
 @University of MD, Global Campus (2011)<br><br>
 
-Current: Harvard Extension School ALM in Government<br>
-Past: Marymount University, DSc in Cybersecurity<br>
-Howard University, MS in Computer Science<br>
-Benedict College , BS CIS<br><br>
-
 Academics: <a href="https://sites.google.com/g.harvard.edu/jonadams">here</a><br><br>
 
 Publications: <a href="https://scholar.google.com/citations?hl=en&user=tNs4YTMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
