@@ -1,6 +1,5 @@
 | Status | Title | Author | Year | Summary | Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | ⏳ **Plan to Read** | The Singularity Is Nearer | Ray Kurzweil | 2024 | An exploration of the future merger between human intelligence and AI. | [Audible](https://www.audible.com/pd/The-Singularity-Is-Nearer-Audiobook/0593148916) / [Amazon](https://www.amazon.com/dp/0593148916) |
 | ⏳ **Plan to Read** | Deep Utopia | Nick Bostrom | 2024 | Explores a "post-instrumental" future where superintelligence makes human labor obsolete. | [Audible](https://www.audible.com/pd/Deep-Utopia-Audiobook/B0DK22GN3L) / [Amazon](https://www.amazon.com/dp/B0DK22GN3L) |
 | ⏳ **Plan to Read** | Unmasking AI | Joy Buolamwini | 2023 | The story of uncovering "the coded gaze" and the fight for algorithmic justice. | [Audible](https://www.audible.com/pd/Unmasking-AI-Audiobook/B0C3MSJXWP) / [Amazon](https://www.amazon.com/dp/B0C3MSJXWP) |
