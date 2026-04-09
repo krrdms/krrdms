@@ -27,3 +27,5 @@ Publications: <a href="https://scholar.google.com/citations?hl=en&user=tNs4YTMAA
 --- Free Stuff
 
 Classes - https://github.com/krrdms/krrdms/blob/main/FreeClasses.MD
+
+Reading - https://github.com/krrdms/krrdms/blob/main/ReadingList.MD
